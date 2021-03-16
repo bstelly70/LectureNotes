@@ -23,4 +23,4 @@ for (stud of student) {
 }
 ​
 //for of loops are best used on arrays
-//for in loops are best used on objects
+//for in loops are best used on objects 
